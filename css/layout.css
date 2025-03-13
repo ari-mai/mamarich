@@ -141,7 +141,7 @@ heading：見出し
   line-height: 1.2;
 }
 .ttl .ttl-ja {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: var(--mincho);
   position: relative;
   display: inline-block;
@@ -161,7 +161,7 @@ heading：見出し
 .ttl .ttl-ja::before {
   left: 0;
 }
-.ttl.ttl-ja::after {
+.ttl .ttl-ja::after {
   right: 0;
 }
 /*--下線--*/
