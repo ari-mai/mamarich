@@ -359,7 +359,7 @@ contents：ニュースとブログ
 }
 .news-list,
 .blog-list {
-  margin: 30px 0;
+  margin: 30px 0 50px 0;
 }
 .news-item,
 .blog-item {
