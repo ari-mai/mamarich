@@ -287,8 +287,8 @@ header：トップ画面
 }
 /*サイトのタイトル*/
 .header-area p {
-  font-size: calc((14 / 16) * 1em);
-  line-height: 2;
+  font-size: calc((16 / 16) * 1em);
+  line-height: 1.4;
   letter-spacing: 0.2em;
   margin: 0 0 18px 0;
   font-family: var(--mincho), serif;
