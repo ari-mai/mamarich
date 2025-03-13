@@ -138,12 +138,15 @@ heading：見出し
   font-family: var(--pari);
   font-size: calc((48 / 16) * 1em);
   font-weight: normal;
+  line-height: 1.2;
 }
 .ttl .ttl-ja {
   font-size: 1.2rem;
+  font-family: var(--mincho);
   position: relative;
   display: inline-block;
   padding: 0 55px;
+  margin-bottom: 30px;
 }
 .ttl .ttl-ja::before,
 .ttl .ttl-ja::after {
