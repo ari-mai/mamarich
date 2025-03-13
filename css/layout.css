@@ -338,6 +338,7 @@ intro：サイトの紹介文
   padding: 50px 0;
   background-color: var(--l-pink);
   font-family: var(--mincho), serif;
+  font-size: calc((20 / 16) * 1em);
 }
 @media (min-width: 768px) {
   .intro {
