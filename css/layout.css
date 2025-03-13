@@ -319,7 +319,7 @@ header：トップ画面
     right: 1vw;
   }
   .header-area h1 {
-    font-size: calc((66 / 16) * 1em);
+    font-size: calc((80 / 16) * 1em);
   }
 }
 /* gnavi */
