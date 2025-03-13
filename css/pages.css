@@ -58,11 +58,13 @@ blog.htmlとnews.html
 
 .page-title .ttl-en {
   font-family: var(--pari);
-  font-size: calc((36 / 16) * 1em);
+  font-size: calc((50 / 16) * 1em);
+  line-height: 1.2;
 }
 
 .page-title .ttl-ja {
   font-size: calc((12 / 16) * 1em);
+  font-family: var(--mincho);
 }
 
 @media (min-width: 768px) {
