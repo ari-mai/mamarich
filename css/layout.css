@@ -32,8 +32,7 @@ GENERAL STYLING
   --bold: 700;
 
   /*フォント*/
-  --basic: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium",
-    "游ゴシック", "Yu Gothic", sans-serif;
+  --basic: "Noto Sans JP", sans-serif;
   --mincho: "Noto Serif JP", serif;
   --pari: "Parisienne", cursive;
   --bask: "Baskervville", serif;
