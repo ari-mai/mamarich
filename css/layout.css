@@ -502,7 +502,7 @@ banners：バナー
 }
 @media (min-width: 768px) {
   .banners {
-    padding: 40px 0;
+    padding: 60px 0;
   }
   .banners-list {
     display: flex;
